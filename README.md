@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fredrick273
 - 👀 I’m interested in Web Development and Python projects
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Nodejs and PHP
 - 💞️ I’m looking to collaborate on Websites and python modules
 - 📫 You can reach me on discord => UnwantedSoul#8654
 
