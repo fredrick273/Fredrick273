@@ -1,7 +1,5 @@
 # Hello, I'm Fredrick!
 
-![Profile Banner](https://your-image-url.com/your-image.png)
-
 👋 Welcome to my GitHub profile! I'm passionate about Web Development and Python projects.
 
 ## About Me
@@ -38,8 +36,6 @@ If you have any exciting ideas or projects in mind, feel free to reach out. Let'
 
 ## Let's Connect!
 
-- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)
-- 🎥 Subscribe to my [YouTube channel](https://www.youtube.com/channel/yourusername)
 - 📷 Connect on [Instagram](https://www.instagram.com/unwntd.soul/)
 
 
