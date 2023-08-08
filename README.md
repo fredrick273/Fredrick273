@@ -14,6 +14,7 @@
 - 📫 You can reach me on Discord: _unwantedsoul
 - 📧 Feel free to contact me via email: samfredrick273@gmail.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sam-fredrick-21b783251/)
+- 📷 Connect on [Instagram](https://www.instagram.com/unwntd.soul/)
 
 
 ## Collaboration
@@ -34,8 +35,7 @@ If you have any exciting ideas or projects in mind, feel free to reach out. Let'
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick273&layout=compact)
 
-## Let's Connect!
 
-- 📷 Connect on [Instagram](https://www.instagram.com/unwntd.soul/)
+
 
 
