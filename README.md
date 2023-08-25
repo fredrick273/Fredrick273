@@ -29,12 +29,10 @@ If you have any exciting ideas or projects in mind, feel free to reach out. Let'
 
 ## GitHub Stats
 
-![Fredrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredrick273&show_icons=true&theme=tokyonight&hide=["issues")
-
+![Fredrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredrick273&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Fredrick273&show_icons=true&theme=tokyonight&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Fredrick273&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
